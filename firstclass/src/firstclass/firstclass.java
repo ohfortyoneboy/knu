@@ -15,7 +15,7 @@ public class firstclass {
             int x = in.nextInt();
             
             if (x == 0) {
-                System.out.println("Exiting the loop.");
+                System.out.println("System off.");
                 break;
             }
             
